@@ -1,3 +1,4 @@
+## Migration from github.com/jhjeong32snu
 
 A Python-based program for ion trap experiments.
 To share experimental equipment across multiple setups, the equipment is controlled by a server computer, allowing multiple clients to access it.
